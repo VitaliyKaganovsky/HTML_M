@@ -1,0 +1,14 @@
+
+body{
+    display: flex;
+    justify-content: space-around;
+}
+
+.itembox{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background: #ff5833;
+    justify-content: center;
+    align-items: center;
+}

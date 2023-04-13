@@ -1,0 +1,21 @@
+.mainbox{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: cornflowerblue;
+    width: 100%;
+    height: 150px;
+}
+
+.item{
+    height: 100px;
+    width: 100px;
+    background: red;
+    transition-duration: 1s;
+}
+
+.item:hover{
+    background: gray;
+    border-radius: 50%;
+    transition-duration: 1s;
+}
