@@ -1,0 +1,29 @@
+.head{
+    display: flex;
+    justify-content: center;
+}
+
+.main{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 81px;
+    margin-bottom: 25px;
+}
+
+.receipt{
+    font-size: 40px;
+    background: rgba(217, 217, 217, 0.3);
+    margin-left: 81px;
+    margin-right: 46px;
+    padding-top: 38px;
+}
+
+ul{
+    font-size: 40px;
+    margin-left: 82px;
+    line-height: 59.28px;
+}
+
+
+
+
