@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+
+.sectBox{
+    display: flex;
+}
+
+.vertical-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section{
+    width: 33.3vw;
+}
+

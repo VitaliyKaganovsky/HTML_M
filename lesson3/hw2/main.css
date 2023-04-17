@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    font-family: 'Jost', sans-serif;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 104px;
+    height: 20vh;
+    background-color: rgba(217, 217, 217, 0.1);
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    margin-left: 72px;
+}
+
+main{
+    height: 80vh;
+    display: flex;
+    padding-right: 30px;
+}
+
+section{
+    padding-left: 70px;
+    width: 50%;
+}
+
+h1{
+    margin-left: 5px;
+}
+
+img{
+    margin-left: auto;
+}
+
+.btn-box{
+    display: flex;
+}
+
+p{
+    width: 300px;
+}
+
+button{
+    border: solid black 1px;
+    border-radius: 15px;
+    background-color: white;
+    font-size: 5px;
+    width: 80px;
+    height: 20px;
+    margin-right: 35px;
+}
