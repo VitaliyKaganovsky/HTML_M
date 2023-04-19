@@ -1,0 +1,82 @@
+.mobPage{
+    width: 560px;
+    height: 600px;
+    margin: 0 auto;
+    border: solid gray 2px;
+    padding-top: 30px;
+}
+
+.authorization{
+    width: 65%;
+    height: 77%;
+    margin: 0 auto;
+    border: solid lightgrey 1px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.noUserAccount{
+    width: 65%;
+    height: 7.5%;
+    margin: 0 auto;
+    border: solid lightgrey 1px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+input{
+    padding-left: 5px;
+    width: 85%;
+    height: 40px;
+    border-radius: 3px;
+    border: solid lightgrey 2px;
+    background-color: rgb(250, 250, 250);
+    margin-bottom: 15px;
+    font-weight: bolder;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    width: 100%;
+}
+
+button{
+    cursor: pointer;
+}
+
+form button{
+    width: 85%;
+    height: 25%;
+    background-color: lightskyblue;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+
+.fbLogin{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: transparent;
+    border: none;
+    height: 30px;
+    font-weight: bold;
+    color: darkblue;
+}
+
+a{
+    text-decoration: none;
+    color: darkblue;
+}
+
